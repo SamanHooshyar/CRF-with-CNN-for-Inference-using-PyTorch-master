@@ -12,7 +12,7 @@ crf.py:
 Code for CRF layer. It includes implementation of forward propagation, backward propagation and loss for crf.
 
 data_loader.py:
-Data loader code as provided by Professor.
+Data loader code.
 
 train.py
 Code to train the neural network with one/two conv layer and crf as nn.module layer. 
